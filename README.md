@@ -15,6 +15,7 @@ To implement UART communication protocol using Verilog HDL on Basys3 FPGA.
 
 ## Software Used
 - Xilinx Vivado
+- Putty terminal
 
 ## Working
 Data is transmitted from PC terminal to FPGA using UART.
